@@ -1,0 +1,7 @@
+20190325221954
+-c
+-x
+ada
+-gnatA
+-gnatc
+-gnates=C:\CS\Semester_6\Formal methods\Lab1\Zad3\obj\gnatprove\dbbf3207.tmp

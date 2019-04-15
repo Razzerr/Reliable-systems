@@ -1,0 +1,5 @@
+package body horner
+   with SPARK_Mode is
+   function hornerFunc(; N : in Integer)
+
+end horner;

@@ -1,0 +1,6 @@
+poly.adb:7:20: medium: overflow check might fail (e.g. when Res = 0 and X = 0)[#1]
+poly.adb:7:23: medium: overflow check might fail (e.g. when Res = 0)[#5]
+poly.adb:8:21: medium: overflow check might fail (e.g. when Res2 = 0)[#2]
+poly.adb:8:26: medium: overflow check might fail (e.g. when Res2 = 0)[#4]
+poly.adb:8:29: medium: overflow check might fail (e.g. when Res2 = 0)[#3]
+poly.adb:9:38: medium: overflow check might fail[#0]

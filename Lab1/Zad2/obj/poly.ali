@@ -1,0 +1,30 @@
+V "GNAT Lib v2018"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U poly%b		poly.adb		712d3f78 NE OO PK
+Z system.exp_int%s	s-expint.adb		s-expint.ali
+
+U poly%s		poly.ads		588107a7 EE NE OO PK
+
+D poly.ads		20190319105058 588107a7 poly%s
+D poly.adb		20190325215222 29ac38df poly%b
+D system.ads		20180524051738 32a08138 system%s
+D s-expint.ads		20180524051738 192336fc system.exp_int%s
+X 1 poly.ads
+1K9*Poly 6l5 6e9 2|1b14 14l5 14t9
+2A9*Vector(integer)<integer> 3r38 2|2r38
+3V13*Horner{integer} 3>21 3>34 5r14 2|2b13 13l8 13t14
+3i21 X{integer} 2|2b21 7r21 8r28 9r37
+3a34 A{2A9} 4r14 2|2b34 6r24 7r25 8r22 8r34 9r43
+X 2 poly.adb
+3i7 Res{integer} 7m10 7r17 9r32 11r21 12r14
+4i7 Res2{integer} 8m10 8r17 9r55 11r27
+6i11 I{integer} 7r27 8r24 8r32 9r41
+

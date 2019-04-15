@@ -1,0 +1,540 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 7" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 14" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 7" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 7" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 6" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 14" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 7" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 7" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 14" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 7" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad2\src\Poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\selection-ads.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\selection-ads.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 18" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\selection.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 3" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\selection.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 16" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\selection.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 10" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\selection.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 17" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\selection.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 6" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 7" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 4" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 7" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 7" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 10" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 4" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad1\src\smallest_factor_module.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 21" line=" 18" >
+      <vfs_project />
+      <vfs_file>C:\CS\Semester_6\Formal methods\Lab1\Zad1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\CS\Semester_6\Formal methods\Lab1\zad1.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\CS\Semester_6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\CS\Semester_6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\CS\Semester_6\Formal methods\Lab1\src\smallest_factor_module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\CS\Semester_6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester_6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >C:\CS\Semester_6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester_6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\binary_search.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 3">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 74" line=" 6">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 7">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 9">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 16">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 7">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\smallest_factor-ads.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 13">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 7">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 4">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 7">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 13">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 7">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 74" line=" 6">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\smallest_factor_module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\smallest_factor_module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\smallest_factor_module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 7">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 6">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 4">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 4">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 75" line=" 6">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 75" line=" 6">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 7">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 4">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 10">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 4">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 14">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 4">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 14">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 4">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 4">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 4">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 4">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 4">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 4">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 4">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 259">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2018\lib\gcc\x86_64-pc-mingw32\7.3.1\adainclude\a-textio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 263">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2018\lib\gcc\x86_64-pc-mingw32\7.3.1\adainclude\a-textio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 65" line=" 6">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 65" line=" 3">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\smallest_factor_module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 263">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2018\lib\gcc\x86_64-pc-mingw32\7.3.1\adainclude\a-textio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 18">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 5">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 2">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\smallest_factor_module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 5">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 16">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 9">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 6">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\smallest_factor_module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 13">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 8">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\smallest_factor_module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 46" line=" 10">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 39" line=" 9">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\smallest_factor_module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 15">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 13">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 18">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 39" line=" 9">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\smallest_factor_module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 14">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 39" line=" 9">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\smallest_factor_module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 79" line=" 12">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 16">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\Smallest_Factor_Module.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 16" line=" 6">
+      <vfs_project >C:\CS\Semester 6\Formal methods\Lab1\zad1.gpr</vfs_project>
+      <vfs_file >C:\CS\Semester 6\Formal methods\Lab1\src\smallest_factor_module.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
