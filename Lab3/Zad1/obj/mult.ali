@@ -1,0 +1,22 @@
+V "GNAT Lib v2018"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U mult%b		mult.adb		fa55d5ba NE OO SU
+
+D mult.adb		20190603191010 fa55d5ba mult%b
+D system.ads		20180524051738 32a08138 system%s
+X 1 mult.adb
+1V10*Mult{natural} 1b10 1>16 1>29 4r11 19l5 19t9
+1i16 A{natural} 3r10 4r25 7r20 16r29
+1i29 B{natural} 3r24 4r29 8r20 16r31
+6i4 AB{natural} 12m10 12r16 16r43 18r11
+7i4 AA{natural} 12r21 14m7 14r17 16r35
+8i4 B1{natural} 10r10 11r10 15m7 15r13 16r38
+

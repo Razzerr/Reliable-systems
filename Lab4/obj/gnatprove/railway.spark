@@ -1,0 +1,629 @@
+{
+  "spark": [
+    {
+      "name": "railway",
+      "sloc": [
+        {
+          "file": "railway.ads",
+          "line": 1
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "railway.Correct_Signals",
+      "sloc": [
+        {
+          "file": "railway.ads",
+          "line": 38
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "railway.Correct_Segments",
+      "sloc": [
+        {
+          "file": "railway.ads",
+          "line": 54
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "railway.Open_Route",
+      "sloc": [
+        {
+          "file": "railway.ads",
+          "line": 66
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "railway.Move_Train",
+      "sloc": [
+        {
+          "file": "railway.ads",
+          "line": 74
+        }
+      ],
+      "spark": "all"
+    }
+  ],
+  "flow": [
+    {
+      "file": "railway.ads",
+      "line": 74,
+      "col": 48,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "railway.Move_Train",
+        "sloc": [
+          {
+            "file": "railway.ads",
+            "line": 74
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "railway__flow__63.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "railway.ads",
+      "line": 66,
+      "col": 48,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "railway.Open_Route",
+        "sloc": [
+          {
+            "file": "railway.ads",
+            "line": 66
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "railway__flow__234.trace",
+      "how_proved": "flow"
+    }
+  ],
+  "proof": [
+    {
+      "file": "railway.ads",
+      "line": 72,
+      "col": 16,
+      "rule": "VC_POSTCONDITION",
+      "severity": "info",
+      "entity": {
+        "name": "railway.Open_Route",
+        "sloc": [
+          {
+            "file": "railway.ads",
+            "line": 66
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 1594,
+              "time": 2.70000000000000E-01
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 1831,
+              "time": 2.30000000000000E-01
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "railway.ads",
+      "check_line": 72,
+      "check_col": 16,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 2.70000010728836E-01
+        }
+      }
+    },
+    {
+      "file": "railway.ads",
+      "line": 80,
+      "col": 16,
+      "rule": "VC_POSTCONDITION",
+      "severity": "info",
+      "entity": {
+        "name": "railway.Move_Train",
+        "sloc": [
+          {
+            "file": "railway.ads",
+            "line": 74
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 1371,
+              "time": 2.50000000000000E-01
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 1605,
+              "time": 2.50000000000000E-01
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "railway.ads",
+      "check_line": 80,
+      "check_col": 16,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 2.50000000000000E-01
+        }
+      }
+    }
+  ],
+  "assumptions": [
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "railway.Correct_Signals",
+          "sloc": [
+            {
+              "file": "railway.ads",
+              "line": 38
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_AORTE",
+        "arg": {
+          "name": "railway.Correct_Signals",
+          "sloc": [
+            {
+              "file": "railway.ads",
+              "line": 38
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "railway.Correct_Segments",
+          "sloc": [
+            {
+              "file": "railway.ads",
+              "line": 54
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_AORTE",
+        "arg": {
+          "name": "railway.Correct_Segments",
+          "sloc": [
+            {
+              "file": "railway.ads",
+              "line": 54
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_AORTE",
+        "arg": {
+          "name": "railway",
+          "sloc": [
+            {
+              "file": "railway.ads",
+              "line": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "railway.Correct_Segments",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 54
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "railway.Correct_Signals",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 38
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_AORTE",
+          "arg": {
+            "name": "railway.Correct_Segments",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 54
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_AORTE",
+          "arg": {
+            "name": "railway.Correct_Signals",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_POST",
+        "arg": {
+          "name": "railway.Open_Route",
+          "sloc": [
+            {
+              "file": "railway.ads",
+              "line": 66
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "railway.Correct_Segments",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 54
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "railway.Correct_Signals",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "railway.Open_Route",
+          "sloc": [
+            {
+              "file": "railway.ads",
+              "line": 66
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "railway.Correct_Segments",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 54
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "railway.Correct_Signals",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 38
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_AORTE",
+          "arg": {
+            "name": "railway.Correct_Segments",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 54
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_AORTE",
+          "arg": {
+            "name": "railway.Correct_Signals",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_AORTE",
+        "arg": {
+          "name": "railway.Open_Route",
+          "sloc": [
+            {
+              "file": "railway.ads",
+              "line": 66
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "railway.Correct_Segments",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 54
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "railway.Correct_Signals",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 38
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_AORTE",
+          "arg": {
+            "name": "railway.Correct_Segments",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 54
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_AORTE",
+          "arg": {
+            "name": "railway.Correct_Signals",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_POST",
+        "arg": {
+          "name": "railway.Move_Train",
+          "sloc": [
+            {
+              "file": "railway.ads",
+              "line": 74
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "railway.Correct_Segments",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 54
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "railway.Correct_Signals",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "railway.Move_Train",
+          "sloc": [
+            {
+              "file": "railway.ads",
+              "line": 74
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "railway.Correct_Segments",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 54
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "railway.Correct_Signals",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 38
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_AORTE",
+          "arg": {
+            "name": "railway.Correct_Segments",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 54
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_AORTE",
+          "arg": {
+            "name": "railway.Correct_Signals",
+            "sloc": [
+              {
+                "file": "railway.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_AORTE",
+        "arg": {
+          "name": "railway.Move_Train",
+          "sloc": [
+            {
+              "file": "railway.ads",
+              "line": 74
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "timings": {
+    "marking": 4.58599999547005E-04,
+    "globals (basic)": 5.02499984577298E-04,
+    "globals/properties (advanced)": 2.40159989334643E-03,
+    "flow analysis": 2.58000008761883E-02,
+    "codepeer results": 1.77000001713168E-05,
+    "init_why_sections": 2.71810009144247E-03,
+    "translation of standard": 7.41769978776574E-03,
+    "translation of compilation unit": 1.99554990977049E-02,
+    "proof": 1.96383869647980E+00
+  }
+}

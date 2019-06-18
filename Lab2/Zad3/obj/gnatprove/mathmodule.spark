@@ -1,0 +1,1016 @@
+{
+  "spark": [
+    {
+      "name": "MathModule",
+      "sloc": [
+        {
+          "file": "mathmodule.ads",
+          "line": 1
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "MathModule.Sqrt",
+      "sloc": [
+        {
+          "file": "mathmodule.ads",
+          "line": 4
+        }
+      ],
+      "spark": "all"
+    }
+  ],
+  "flow": [
+    {
+      "file": "mathmodule.adb",
+      "line": 14,
+      "col": 24,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "mathmodule__flow__38.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 15,
+      "col": 10,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "mathmodule__flow__39.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 13,
+      "col": 55,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "mathmodule__flow__40.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 19,
+      "col": 7,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "mathmodule__flow__41.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 21,
+      "col": 7,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "mathmodule__flow__42.trace",
+      "how_proved": "flow"
+    }
+  ],
+  "proof": [
+    {
+      "file": "mathmodule.adb",
+      "line": 14,
+      "col": 61,
+      "rule": "VC_FP_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "how_proved": "interval"
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 13,
+      "col": 34,
+      "rule": "VC_FP_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 24702,
+              "time": 1.19000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 9565,
+              "time": 2.30000000000000E-01
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.adb",
+      "check_line": 13,
+      "check_col": 34,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 278,
+          "max_time": 1.19000005722046E+00
+        }
+      }
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 14,
+      "col": 45,
+      "rule": "VC_FP_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 31875,
+              "time": 2.02000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 15659,
+              "time": 9.80000000000000E-01
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.adb",
+      "check_line": 14,
+      "check_col": 45,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 483,
+          "max_time": 2.01999998092651E+00
+        }
+      }
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 19,
+      "col": 21,
+      "rule": "VC_ASSERT",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Timeout",
+              "steps": -1,
+              "time": 5
+            },
+            "Z3": {
+              "result": "Timeout",
+              "steps": -1,
+              "time": 5
+            },
+            "altergo": {
+              "result": "Valid",
+              "steps": 274,
+              "time": 4.69000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.adb",
+      "check_line": 19,
+      "check_col": 21,
+      "how_proved": "prover",
+      "stats": {
+        "altergo": {
+          "count": 1,
+          "max_steps": 275,
+          "max_time": 4.69000004231930E-02
+        }
+      }
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 15,
+      "col": 33,
+      "rule": "VC_LOOP_INVARIANT_PRESERV",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 55396,
+              "time": 7.64000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 51333,
+              "time": 5.72000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Timeout",
+              "steps": -1,
+              "time": 5
+            },
+            "Z3": {
+              "result": "Valid",
+              "steps": 37382794,
+              "time": 6.16000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 53994,
+              "time": 5.19000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.adb",
+      "check_line": 15,
+      "check_col": 33,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 3,
+          "max_steps": 1155,
+          "max_time": 7.63999986648560E+00
+        },
+        "Z3": {
+          "count": 1,
+          "max_steps": 46166,
+          "max_time": 6.15999984741211E+00
+        }
+      }
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 14,
+      "col": 42,
+      "rule": "VC_FP_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 35765,
+              "time": 2.55000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 24581,
+              "time": 2.08000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.adb",
+      "check_line": 14,
+      "check_col": 42,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 594,
+          "max_time": 2.54999995231628E+00
+        }
+      }
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 15,
+      "col": 33,
+      "rule": "VC_LOOP_INVARIANT_INIT",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 32382,
+              "time": 3.34000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 28023,
+              "time": 2.72000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 26940,
+              "time": 2.06000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 25505,
+              "time": 1.64000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.adb",
+      "check_line": 15,
+      "check_col": 33,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 4,
+          "max_steps": 497,
+          "max_time": 3.33999991416931E+00
+        }
+      }
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 19,
+      "col": 43,
+      "rule": "VC_FP_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 25180,
+              "time": 1.91000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.adb",
+      "check_line": 19,
+      "check_col": 43,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 291,
+          "max_time": 1.90999996662140E+00
+        }
+      }
+    },
+    {
+      "file": "mathmodule.ads",
+      "line": 7,
+      "col": 16,
+      "rule": "VC_POSTCONDITION",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 60619,
+              "time": 3.45000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.ads",
+      "check_line": 7,
+      "check_col": 16,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1304,
+          "max_time": 3.45000004768372E+00
+        }
+      }
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 13,
+      "col": 43,
+      "rule": "VC_FP_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 2.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 7842,
+              "time": 2.50000000000000E-01
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.adb",
+      "check_line": 13,
+      "check_col": 43,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 2.50000000000000E-01
+        }
+      }
+    },
+    {
+      "file": "mathmodule.ads",
+      "line": 7,
+      "col": 23,
+      "rule": "VC_FP_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 52572,
+              "time": 3.02000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.ads",
+      "check_line": 7,
+      "check_col": 23,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1074,
+          "max_time": 3.01999998092651E+00
+        }
+      }
+    },
+    {
+      "file": "mathmodule.ads",
+      "line": 7,
+      "col": 37,
+      "rule": "VC_FP_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 50420,
+              "time": 2.95000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.ads",
+      "check_line": 7,
+      "check_col": 37,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1013,
+          "max_time": 2.95000004768372E+00
+        }
+      }
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 19,
+      "col": 27,
+      "rule": "VC_FP_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 27295,
+              "time": 1.88000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.adb",
+      "check_line": 19,
+      "check_col": 27,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 352,
+          "max_time": 1.87999999523163E+00
+        }
+      }
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 19,
+      "col": 54,
+      "rule": "VC_FP_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.adb",
+      "check_line": 19,
+      "check_col": 54,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 13,
+      "col": 19,
+      "rule": "VC_FP_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 13969,
+              "time": 1.23000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 6670,
+              "time": 3.90000000000000E-01
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.adb",
+      "check_line": 13,
+      "check_col": 19,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 1.23000001907349E+00
+        }
+      }
+    },
+    {
+      "file": "mathmodule.ads",
+      "line": 7,
+      "col": 48,
+      "rule": "VC_FP_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 105013,
+              "time": 2.69000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.ads",
+      "check_line": 7,
+      "check_col": 48,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 2572,
+          "max_time": 2.69000005722046E+00
+        }
+      }
+    },
+    {
+      "file": "mathmodule.adb",
+      "line": 14,
+      "col": 45,
+      "rule": "VC_DIVISION_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "MathModule.Sqrt",
+        "sloc": [
+          {
+            "file": "mathmodule.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 28558,
+              "time": 1.23000000000000E+00
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 1.60000000000000E-01
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "mathmodule.adb",
+      "check_line": 14,
+      "check_col": 45,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 388,
+          "max_time": 1.23000001907349E+00
+        }
+      }
+    }
+  ],
+  "assumptions": [
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_POST",
+        "arg": {
+          "name": "MathModule.Sqrt",
+          "sloc": [
+            {
+              "file": "mathmodule.ads",
+              "line": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "MathModule.Sqrt",
+          "sloc": [
+            {
+              "file": "mathmodule.ads",
+              "line": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_AORTE",
+        "arg": {
+          "name": "MathModule.Sqrt",
+          "sloc": [
+            {
+              "file": "mathmodule.ads",
+              "line": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_AORTE",
+        "arg": {
+          "name": "MathModule",
+          "sloc": [
+            {
+              "file": "mathmodule.ads",
+              "line": 1
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "timings": {
+    "marking": 3.89469991205260E-04,
+    "globals (basic)": 3.28569003613666E-04,
+    "globals/properties (advanced)": 8.11395992059261E-04,
+    "flow analysis": 5.41939307004213E-03,
+    "codepeer results": 1.49509996845154E-05,
+    "init_why_sections": 5.45550021342933E-04,
+    "translation of standard": 9.20760817825794E-03,
+    "translation of compilation unit": 5.67612191662192E-03,
+    "proof": 1.74379425048828E+01
+  }
+}

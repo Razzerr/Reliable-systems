@@ -1,0 +1,7 @@
+20190616111558
+-c
+-x
+ada
+-gnatA
+-gnatc
+-gnates=C:\CS\Semester_6\Reliable-systems\Lab4\obj\gnatprove\5f34121a.tmp

@@ -1,0 +1,29 @@
+V "GNAT Lib v2018"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_FLOATING_POINT
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U mathmodule%b		mathmodule.adb		c93460a7 NE OO PK
+
+U mathmodule%s		mathmodule.ads		ab71d309 EE NE OO PK
+
+D mathmodule.ads	20190507074216 ab71d309 mathmodule%s
+D mathmodule.adb	20190507085212 6245b3ae mathmodule%b
+D system.ads		20180524051738 32a08138 system%s
+X 1 mathmodule.ads
+1K9*MathModule 9l5 9e15 2|1b14 24l5 24t15
+4V13*Sqrt{float} 4>19 4>30 7r25 2|4b13 22l8 22t12
+4f19 X{float} 6r15 6r28 7r21 7r46 2|4b19 8r10 9r15 12r24 13r17 13r41 14r44
+. 15r36 15r90 16r35 16r89 19r25 19r52
+4f30 Tolerance{float} 6r44 6r80 7r50 2|4b30 13r45 19r56
+X 2 mathmodule.adb
+6f7 approximation{float} 12m7 13r21 14m10 14r28 14r46 15r50 15r74 16r49 16r73
+. 19r29 21r14
+

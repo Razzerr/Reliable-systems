@@ -1,0 +1,29 @@
+Summary of SPARK analysis
+=========================
+
+-------------------------------------------------------------------------------------------------------------------
+SPARK Analysis results        Total      Flow   Interval   CodePeer                  Provers   Justified   Unproved
+-------------------------------------------------------------------------------------------------------------------
+Data Dependencies                 .         .          .          .                        .           .          .
+Flow Dependencies                 .         .          .          .                        .           .          .
+Initialization                    2         2          .          .                        .           .          .
+Non-Aliasing                      .         .          .          .                        .           .          .
+Run-time Checks                  69         .          .          .                69 (CVC4)           .          .
+Assertions                       16         .          .          .    16 (CVC4 54%, Z3 46%)           .          .
+Functional Contracts             10         .          .          .     10 (CVC4 93%, Z3 7%)           .          .
+LSP Verification                  .         .          .          .                        .           .          .
+-------------------------------------------------------------------------------------------------------------------
+Total                            97    2 (2%)          .          .                 95 (98%)           .          .
+
+
+Analyzed 2 units
+in unit bubble, 4 subprograms and packages out of 4 analyzed
+  Bubble at bubble.ads:1 flow analyzed (0 errors, 0 checks and 0 warnings) and proved (0 checks)
+  Bubble.Bubbled at bubble.ads:10 flow analyzed (0 errors, 0 checks and 0 warnings) and proved (7 checks)
+  Bubble.Sort at bubble.ads:16 flow analyzed (0 errors, 0 checks and 0 warnings) and proved (42 checks)
+  Bubble.Sorted at bubble.ads:4 flow analyzed (0 errors, 0 checks and 0 warnings) and proved (9 checks)
+in unit bubble2, 4 subprograms and packages out of 4 analyzed
+  Bubble2 at bubble2.ads:1 flow analyzed (0 errors, 0 checks and 0 warnings) and proved (0 checks)
+  Bubble2.Bubbled at bubble2.ads:10 flow analyzed (0 errors, 0 checks and 0 warnings) and proved (7 checks)
+  Bubble2.Sort at bubble2.ads:16 flow analyzed (0 errors, 0 checks and 0 warnings) and proved (21 checks)
+  Bubble2.Sorted at bubble2.ads:4 flow analyzed (0 errors, 0 checks and 0 warnings) and proved (9 checks)
